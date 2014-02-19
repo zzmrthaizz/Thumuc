@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1392785092 source:/home/thai/Desktop/Thai/ThuMuc/main.cpp
+	<iostream>
+	<Luutru.h>
+	<File.h>
+	<Folder.h>
+
+1392781027 source:/home/thai/Desktop/Thai/ThuMuc/src/File.cpp
+	"File.h"
+
+1392780637 /home/thai/Desktop/Thai/ThuMuc/include/File.h
+	<Luutru.h>
+
+1392781000 /home/thai/Desktop/Thai/ThuMuc/include/Luutru.h
+	<iostream>
+
+1392785146 source:/home/thai/Desktop/Thai/ThuMuc/src/Folder.cpp
+	"Folder.h"
+
+1392785343 /home/thai/Desktop/Thai/ThuMuc/include/Folder.h
+	"Luutru.h"
+	"File.h"
+
